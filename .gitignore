@@ -1,0 +1,11 @@
+# Anything old
+*.OLD
+OLD*
+
+# auxilary files for keeping sample count
+*-counter
+
+# don't know if I'll be adding the data
+# for now, no
+*.csv
+

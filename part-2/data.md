@@ -10,3 +10,4 @@
 | 8         | Azbycxdw         | nthdiu12         | Faster password effect            |
 | 9         | æqjkxbm          | å,eukxdhcr       | Moving rightwards (right hand)    |
 | 10        | mbxkjqæ          | lrthbxiup.       | Moving leftwards (left hand)      |
+| 11        | root             | password         | Common combination                |
